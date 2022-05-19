@@ -41,9 +41,24 @@ output_path=
 
 [projectfiles]
 FILE_0=main.agc;-1
+FILE_1=moving.agc;-1
+FILE_2=Loader.agc;-1
+FILE_3=shoot;-1
+FILE_4=shot.agc;-1
+FILE_5=collision.agc;-1
+FILE_6=enemy.agc;-1
+FILE_7=Main%20Menu.agc;-1
+FILE_8=gameover.agc;-1
 
 [project]
 description=
 
 [files]
-FILE_NAME_0=1;main.agc;1361;0
+FILE_NAME_0=0;main.agc;834;0
+FILE_NAME_1=0;moving.agc;296;2
+FILE_NAME_2=0;Loader.agc;773;1
+FILE_NAME_3=0;shot.agc;504;3
+FILE_NAME_4=0;collision.agc;0;4
+FILE_NAME_5=0;enemy.agc;179;5
+FILE_NAME_6=0;Main%20Menu.agc;172;6
+FILE_NAME_7=1;gameover.agc;0;7
